@@ -34,7 +34,7 @@ An academic capstone project focused on forecasting food demand, optimising prep
 
 ## Live Portfolio
 
-[Visit My Portfolio](ADD_YOUR_NETLIFY_URL_HERE)
+[Visit My Portfolio](https://manojkumarleburu.netlify.app/)
 
 ## Connect With Me
 
